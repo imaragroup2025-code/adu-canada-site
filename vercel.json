@@ -1,14 +1,6 @@
 {
   "rewrites": [
     {
-      "source": "/roi",
-      "destination": "/roi.html"
-    },
-    {
-      "source": "/roi/",
-      "destination": "/roi.html"
-    },
-    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
